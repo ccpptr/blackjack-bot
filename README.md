@@ -23,3 +23,7 @@ The software will expect your inputs:
 - and third is the maximum number of consecutive losses until restart with minimum bet (this step was requested by my client - and to full utilize it, just type '999')
 
 If you get stucked in captcha at login, you have 45 seconds to pass it manually
+
+
+https://user-images.githubusercontent.com/100800010/200972486-640c35c2-1363-4674-9aa8-3c96564b9d0b.mp4
+
